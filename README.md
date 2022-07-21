@@ -1,4 +1,4 @@
-# Ransonware-v1
+# XOR RANSOMWARE
 
 
 This is a simple ransonware with a xor 
